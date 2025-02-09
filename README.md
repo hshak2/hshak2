@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **JavaScript and HTML/CSS**
 
-- 📫 How to reach me **hmshakir2@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/haadi-sh4k/](https://www.linkedin.com/in/haadi-sh4k/)
 
 - ⚡ Fun fact **I've been trying to learn Muay Thai.**
