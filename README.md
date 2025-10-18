@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript and HTML/CSS**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/haadi-sh4k/](https://www.linkedin.com/in/haadi-sh4k/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/haadi-sh4k/](https://www.linkedin.com/in/hm-shak/)
 
 - ⚡ Fun fact **I've been trying to learn Muay Thai.**
 
