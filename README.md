@@ -11,13 +11,13 @@
 
 - 💬 Ask me about **JavaScript and HTML/CSS**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/haadi-sh4k/](https://www.linkedin.com/in/hm-shak/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hm-shak/](https://www.linkedin.com/in/hm-shak/)
 
 - ⚡ Fun fact **I've been trying to learn Muay Thai.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haadi-sh4k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haadi-sh4k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hm-shak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hm-shak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
