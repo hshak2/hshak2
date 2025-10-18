@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haadi Shakir</h1>
+<h1 align="center">Hi 👋, I'm HM Shak</h1>
 <h3 align="center">A full-stack software engineer with a background in healthcare. I am motivated by the power of technology as a tool for positive change.</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://hshak.netlify.app/)
